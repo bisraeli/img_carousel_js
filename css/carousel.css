@@ -10,6 +10,10 @@ body {
   overflow: hidden;
 }
 
+.darker-button {
+  opacity: 0.5;
+}
+
 #carousel {
   position: absolute;
   display: inline-block;
@@ -34,7 +38,7 @@ body {
   text-align: center;
   background: #222222;
   border: 3px solid #ffffff;
-  opacity: 0.5;
+  opacity: 0.2;
   border-radius: 23px;
   z-index: 5;
   text-decoration: none;
